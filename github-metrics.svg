@@ -322,17 +322,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from  edited files from  commits</small>
+                <small>estimation from 844 edited files from 924 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.175104251669" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="336.175104251669" y="0" width="60.12426670436219" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="396.29937095603117" y="0" width="29.258190743608363" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="425.5575616996395" y="0" width="20.575413526265855" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.1329752259054" y="0" width="13.867024774094611" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.9380630476965" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="234.9380630476965" y="0" width="157.68282931382208" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="392.6208923615186" y="0" width="39.71666471081079" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="432.3375570723294" y="0" width="19.71207982075263" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="452.049636893082" y="0" width="7.950363106917998" height="8" fill="#336790"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -343,9 +343,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TeX
+                        Go
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -355,21 +355,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#db5855" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        HTML
+                        Clojure
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        PLpgSQL
                     </div>
                 </div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28 edited files from 12 commits over last 30 days</small>
+                <small>estimation from 28 edited files from 11 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2022, 06:13:12  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 20 Jan 2022, 12:16:33  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
